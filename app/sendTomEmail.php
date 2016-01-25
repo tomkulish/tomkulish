@@ -11,10 +11,10 @@
     <meta name="keywords" content="thomas kulish, tomkulish, kulish, php, software developer, java, solutions architect, software developer, big data, hadoop, analytics" />
     <meta name="google-site-verification" content="TUhKFf5iws-yjqEKm44_nx-GJ0PPr7VP5pN6otBkgCE" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Superbowl 2016 Party">
+    <meta name="description" content="Super Bowl 2016 Party">
     <meta name="author" content="Tom Kulish">
 
-    <title>Superbowl 2016 Party - February 7th 5pm</title>
+    <title>Super Bowl 2016 Party - February 7th 5pm</title>
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
